@@ -21,7 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-  <h1>传递参数</h1>
+  <h1>传递参数==============</h1>
   <a href="send01?account=12&password=21">参数传递</a>
   <a href="send02?account=12&password=21">参数传递</a>
   
