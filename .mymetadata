@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lession06_04springMVC_补充说明"
+  id="myeclipse.1433294665318"
+  context-root="/mvc"
+  j2ee-spec="5.0"
+  archive="lession06_04springMVC_补充说明.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
